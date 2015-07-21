@@ -1,0 +1,3 @@
+language: ruby
+notifications:
+  webhooks: https://zapier.com/hooks/catch/befrni/
