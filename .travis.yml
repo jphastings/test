@@ -4,3 +4,4 @@ notifications:
     urls:
       - https://zapier.com/hooks/catch/befrni/
       - http://requestb.in/1kkhgn01
+sudo: false
