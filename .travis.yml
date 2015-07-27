@@ -2,6 +2,5 @@ language: ruby
 notifications:
   webhooks:
     urls:
-      - https://zapier.com/hooks/catch/befrni/
-      - http://requestb.in/1kkhgn01
+      - http://71b522f0.ngrok.com/travis
 sudo: false
