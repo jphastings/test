@@ -2,7 +2,7 @@ language: ruby
 notifications:
   webhooks:
     urls:
-      - http://traffic.byjp.me/travis
+      - http://traffic.byjp.me/travis/50ff6e065067545637520387
     on_success: always
     on_failure: always
     on_start: always
